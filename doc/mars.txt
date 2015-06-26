@@ -1,3 +1,4 @@
 just a text.
 added new text.
 Even another text.
+Adding another sentence to confirm that we know how to add and commit changes.
